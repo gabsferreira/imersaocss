@@ -1,0 +1,25 @@
+body {
+    background: url("https://i.ibb.co/Bf0p6m9/Banner-do-twitch-1.png");
+    background-size: auto 100vh;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style : none;
+  }
+  
+  .menu {
+    background-color: #c8a2c8;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
